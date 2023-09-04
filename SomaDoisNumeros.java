@@ -18,5 +18,6 @@ public class SomaDoisNumeros{
         resultado = op1+op2;
 
         //saida
+        System.out.print(resultado);
     }
 }
